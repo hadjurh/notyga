@@ -10,3 +10,14 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+
+# Standalone copies for sharing (not deployed)
+_share/
+
+# Local only: internal docs and server details, never published on GitHub
+README_local.md
+deploy.local.json
+
+# Windows files
+desktop.ini
+*.lnk
